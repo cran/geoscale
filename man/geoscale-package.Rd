@@ -8,9 +8,9 @@
 \tabular{ll}{
 Package: \tab geoscale\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-05-13\cr
-License: \tab GPL\cr
+Version: \tab 1.1\cr
+Date: \tab 2014-01-22\cr
+License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 }
 
@@ -21,7 +21,7 @@ LazyLoad: \tab yes\cr
 Gradstein, F. M., Ogg, J. M., and Schmitz, M., 2012, A geologic time scale, Boston, USA, Elsevier.
 
 }
-\keyword{time series}
+\keyword{time-series,plot}
 \examples{
 data(traits)
 attach(traits)
