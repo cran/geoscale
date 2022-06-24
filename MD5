@@ -1,11 +1,10 @@
-8fbed0b22f3241ca5e0bdad20fd5db88 *DESCRIPTION
-a5ee16b6e1d405d44310eb10a9090b5f *NAMESPACE
-a517e4fdc3776756b4a7ccea309faa45 *R/geoscale-internal.R
+54c1e684994a3f22fb3c2f2dca25ab07 *DESCRIPTION
+e3f6b7ee9efce99978d42dba1a82fd10 *NAMESPACE
 846a42342c87a45034b06220b8793ed4 *R/geoscaleBox.R
 0d34d26c25aadcbc30aad10a2f69282e *R/geoscalePlot.R
 055b7349c4dd1ae2a0d16f957d1dac3e *data/biozones.txt.gz
-6dd4aef584a7364998e829a67f685a38 *data/size.rda
-737daf4a47a7a4c4188f39b73a6e67f4 *data/timescales.rda
+1b4c7771e3351ba7b4c9eb5ba9abcbf8 *data/size.rda
+203ac829a4ac0767ca4a02dbb789cc0e *data/timescales.rda
 f3e99a73a01a1f88f4425a52cc1affc6 *data/traits.txt.gz
 4de8a44df746ab83c15161b2fe2e2874 *man/biozones.Rd
 00ac3ed4a4c4aee3a0764b8cfe907d6d *man/geoscale-package.Rd

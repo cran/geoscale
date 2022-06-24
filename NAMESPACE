@@ -1,1 +1,5 @@
 exportPattern("^[[:alpha:]]+")
+
+importFrom("grDevices", "rgb")
+importFrom("graphics", "axis", "boxplot", "par", "points", "polygon",
+           "rect", "segments", "text")
